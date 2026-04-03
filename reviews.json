@@ -1,6 +1,36 @@
 [
-
- 
+  {
+    "name": "Michael Thompson",
+    "userId": "email_1",
+    "rating": 5,
+    "date": "February 15, 2025",
+    "text": "Excellent work on our kitchen remodel! The team was professional, punctual, and completed the project ahead of schedule. The quality of the cabinets and countertops is outstanding. Highly recommend AZ State Remodeling!",
+    "service": "Kitchen Remodel"
+  },
+  {
+    "name": "Sarah Martinez",
+    "userId": "email_2",
+    "rating": 5,
+    "date": "January 28, 2025",
+    "text": "Amazing transformation of our master bathroom! From the tile work to the glass doors, every detail was perfect. The team was clean, respectful, and communicated well throughout the entire process. Will definitely use them again!",
+    "service": "Bathroom Remodel"
+  },
+  {
+    "name": "David Chen",
+    "userId": "email_3",
+    "rating": 5,
+    "date": "January 10, 2025",
+    "text": "We had our entire house flooring replaced with vinyl planks and tile. The installation was flawless and the team paid attention to every detail. They even helped us choose the perfect materials. Very satisfied customers!",
+    "service": "Flooring"
+  },
+  {
+    "name": "Robert Wilson",
+    "userId": "phone_1",
+    "rating": 4.5,
+    "date": "December 18, 2024",
+    "text": "Great experience with the exterior painting and stucco repairs. The team was very professional and the quality of work exceeded our expectations. They cleaned up everything daily and finished on time. Would hire again!",
+    "service": "Painting & Stucco"
+  },
   {
     "name": "Jennifer Adams",
     "userId": "email_4",
@@ -17,5 +47,12 @@
     "text": "Custom cabinets installation was perfect. They designed exactly what we wanted and the craftsmanship is top-notch. The team was very professional and the price was very reasonable. Highly recommended!",
     "service": "Custom Cabinets"
   },
- 
+  {
+    "name": "prueba",
+    "userId": "phone_1775259822567",
+    "rating": 5,
+    "date": "April 3, 2026",
+    "text": "pruebq",
+    "service": "Trim"
+  }
 ]
