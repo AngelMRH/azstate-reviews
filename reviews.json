@@ -1,22 +1,6 @@
 [
 
-  
-  {
-    "name": "Sarah Martinez",
-    "userId": "email_2",
-    "rating": 5,
-    "date": "January 28, 2025",
-    "text": "Amazing transformation of our master bathroom! From the tile work to the glass doors, every detail was perfect. The team was clean, respectful, and communicated well throughout the entire process. Will definitely use them again!",
-    "service": "Bathroom Remodel"
-  },
-  {
-    "name": "David Chen",
-    "userId": "email_3",
-    "rating": 5,
-    "date": "January 10, 2025",
-    "text": "We had our entire house flooring replaced with vinyl planks and tile. The installation was flawless and the team paid attention to every detail. They even helped us choose the perfect materials. Very satisfied customers!",
-    "service": "Flooring"
-  },
+ 
   {
     "name": "Jennifer Adams",
     "userId": "email_4",
